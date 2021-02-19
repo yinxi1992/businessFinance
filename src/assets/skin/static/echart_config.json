@@ -1,0 +1,60 @@
+{
+  "light": {
+    "title": "#ff0000",
+    "typeSign": ["#ffffff", "#0000ff", "#ff0000", "#ff0000", "#ff0000"],
+    "typeText": ["#abb7c2", "#abb7c2", "#ff0000", "#ff0000", "#ff0000"],
+    "xLine": "#ff0000",
+    "xLabel": "#ff0000",
+    "yLine": "#ff0000",
+    "yLabel": "#ff0000",
+    "cylinderBar": [
+      [{
+          "offset": 0,
+          "color": "#19FFAA"
+        },
+        {
+          "offset": 1,
+          "color": "#13C37F"
+        }
+      ],
+      [{
+          "offset": 0,
+          "color": "#00ff00"
+        },
+        {
+          "offset": 1,
+          "color": "#0000ff"
+        }
+      ]
+    ]
+  },
+  "dark": {
+    "title": "#1EC5EE",
+    "typeSign": ["#2AC9FD", "#76FBC0", "#ff0000", "#ff0000", "#ff0000"],
+    "typeText": ["#abb7c2", "#dcdcdc", "#ff0000", "#ff0000", "#ff0000"],
+    "xLine": "#01ADFF",
+    "xLabel": "#A6A6A6",
+    "yLine": "#01ADFF",
+    "yLabel": "#A6A6A6",
+    "cylinderBar": [
+      [{
+          "offset": 0,
+          "color": "#19FFAA"
+        },
+        {
+          "offset": 1,
+          "color": "#13C37F"
+        }
+      ],
+      [{
+          "offset": 0,
+          "color": "#ff0000"
+        },
+        {
+          "offset": 1,
+          "color": "#00ff00"
+        }
+      ]
+    ]
+  }
+}

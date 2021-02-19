@@ -1,0 +1,7 @@
+{
+	"devtUrl": "http://3c830e9427da451a9e0eeb0656f4e86c-cn-hangzhou.alicloudapi.com/",
+	"proUrl": "http://4cabd0306c1b4b4e96c3f09bee68c78a-cn-hangzhou.alicloudapi.com/",
+	"dataCollectionUrl": "http:///183.223.222.119:44444/",
+	"webSocketUrl": "ws://192.168.0.104:8080",
+	"method": "post"
+}

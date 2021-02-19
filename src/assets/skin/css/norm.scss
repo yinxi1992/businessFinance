@@ -1,0 +1,9 @@
+@import "./common/mixins.scss";
+@import "./common/variables.scss";
+
+//获取背景颜色
+@mixin color($color) {
+  @include themify {
+    color: themed($color);
+  }
+}
